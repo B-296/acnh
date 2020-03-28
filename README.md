@@ -1,2 +1,2 @@
-# acnh
-An Animal Crossing: New Horizons wiki-style site.
+# Animal Crossing: New Horizons Wiki
+By B-296
