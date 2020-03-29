@@ -5,7 +5,7 @@ html, body {
 
 body {
     background-color: rgb(255, 255, 255);
-    background-image: url("/resources/bg.png");
+    background-image: url("/acnh/resources/bg.png");
     min-width: 350px;
 }
 
@@ -94,7 +94,7 @@ body {
   .home-main-fill {
     height: 40%;
     background-color: rgb(255, 255, 255);
-    background-image: url("/resources/bg.png");
+    background-image: url("/acnh/resources/bg.png");
 }
 
 .home-content-container {
