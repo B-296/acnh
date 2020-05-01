@@ -256,6 +256,10 @@ hr {
 	border-top: 2px solid #171c2f;
 }
 
+.navbar-brand:hover {
+    background-color: #0e1220;
+}
+
 /* -- Large Devices -- */
 @media only screen and (min-width: 992px) {
 	.home-nav-btn:hover {
