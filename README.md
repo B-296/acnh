@@ -1,2 +1,2 @@
-# acnh
-An Animal Crossing: New Horizons wiki-style site.
+# NH:Notes
+This is a progress tracker for Animal Crossing: New Horizons. 
