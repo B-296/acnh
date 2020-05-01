@@ -1,0 +1,281 @@
+.navbar-brand {
+	background-color: #171c2f;
+}
+
+.home-main-fill {
+	background-color: rgb(0, 0, 0) !important;
+}
+
+.home-anim-container {
+	background-color: #3a3a3a;
+}
+
+.navbar {
+	background-color: #323f6a;
+}
+
+body {
+	background-color: rgb(9, 9, 9) !important;
+	background-image: url("/acnh/resources/bg2.png");
+}
+
+.brand-txt {
+	color: #6173b0;
+}
+
+.home-content {
+	background-color: #171c2f;
+}
+
+.home-content-bg {
+	background-color: #293355;
+}
+
+.home-content h3, .home-content h5 {
+	color: #eaeaea;
+}
+
+.overview-subtext {
+	background-color: #212942;
+	color: #eaeaea;
+}
+
+hr {
+	border-top: 1px solid rgb(23, 28, 47);
+}
+
+.overview-count {
+	color: #eaeaea;
+}
+
+.overview-item {
+	background-color: #00000021;
+}
+
+.overview-progress-bar-bg {
+	background-color: #171c2f;
+}
+
+.list-item-container {
+	background-color: #323f6a;
+	border-color: #171c2f;
+}
+
+.list-item-image {
+	background-color: #323f6a;
+}
+
+.list-item-content {
+	background-color: #323f6a;
+	color: #fff;
+}
+
+.list-item-name {
+	background-color: #323f6a;
+	border-color: #171c2f;
+	color: #eaeaea;
+}
+
+.list-item-info-container {
+	background-color: #293355;
+	color: #eaeaea !important;
+}
+
+.list-item-info-item-even {
+	background-color: #323f6a;
+	border-top: 1px solid #171c2f;
+	border-bottom: 1px solid #171c2f;
+}
+
+.list-item-info-header {
+	color: #6173b0;
+}
+
+.list-item-price {
+	background-color: #171c2f;
+	color: white;
+}
+
+.note-tick-text, .note-filter-text {
+	color: white;
+}
+
+.progress-bar-fg {
+	background-color: #6173b0;
+}
+
+.overview-fish .fa-check, .overview-bug .fa-check, .overview-fossil .fa-check, .overview-art .fa-check {
+	color: #eaeaea;
+}
+
+.created-by {
+	color: white;
+}
+
+.overview-item-checked {
+	background-color: #6173b0;
+	border: 1px solid #171c2f;
+}
+
+.animsition-overlay-slide {
+	background-color: #202123 !important;
+}
+
+.preloader-container {
+    background-color: #202123 !important;
+}
+
+.home-nav-btn {
+	background-color: #425184;
+}
+
+.home-nav-btn-txt {
+	background-color: #6173b0;
+}
+
+.nav-link:hover {
+	background-color: #171c2f;
+}
+
+.btn-option {
+	background-color: #293355;
+	border: 1px solid #293355;
+	color: #eaeaea !important;
+}
+
+.showing-total {
+	background-color: #6173b0;
+}
+
+.filter-total {
+	background-color: #6173b0;
+}
+
+.list-options {
+	background-color: #171c2f;
+}
+
+.search {
+	color: #eaeaea;
+	background-color: #293355;
+}
+
+.search-icon {
+	color: #6173b0;
+}
+
+.search::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #6173b0;
+    opacity: 1; /* Firefox */
+}
+
+.search:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #6173b0;
+}
+
+.search::-ms-input-placeholder { /* Microsoft Edge */
+    color: #6173b0;
+}
+
+.list-progress-container {
+	background-color: #293355;
+}
+
+.progress-bar-bg {
+	background-color: #171c2f;
+}
+
+.progress-count {
+	color: #eaeaea;
+}
+
+.search:focus {
+	color: #eaeaea;
+    background-color: #2e3960 !important;
+}
+
+.btn-option:hover, .btn-option:active, .btn-option:focus {
+	background-color: #2e3960 !important;
+	border: 1px solid #2e3960 !important;
+	color: #eaeaea !important;
+}
+
+.btn-option option {
+	font-family: 'Sarala', sans-serif;
+	color: #373737;
+	background-color: #f5e186;
+	border-radius: 3px;
+	font-size: 15px;
+}
+
+.btn-option option:nth-child(2n) {
+	background-color: #e6d27b;
+	border-top: 1px solid #ccbb70;
+	border-bottom: 1px solid #ccbb70;
+}
+
+.list-container {
+	background-color: #00000038;
+}
+
+.dropdown-menu {
+	border: 1px solid #171c2f;
+}
+
+.checkbox label {
+	background-color: #293355;
+	color: white;
+}
+
+.checkbox:nth-child(2n) label, .sort-by-btn:nth-child(2n) {
+	background-color: #38446c;
+	border-top: 1px solid #171c2f;
+	border-bottom: 1px solid #171c2f;
+}
+
+.checkbox label:hover, .sort-by-btn:hover {
+    background-color: #6173b0 !important;
+    color: white;
+}
+
+.sort-by-btn {
+	background-color: #293355;
+	color: white;
+}
+
+.bold, .bold:hover {
+	background-color: #171c2f !important;
+	color: white;
+}
+
+.list-item-name-fossil {
+	color: #171c2f;
+}
+
+.list-item-genuine {
+	border-top: 2px solid #171c2f;
+}
+
+/* -- Large Devices -- */
+@media only screen and (min-width: 992px) {
+	.home-nav-btn:hover {
+        background-color: #2e3a62;
+	}
+
+    .home-nav-btn:hover .home-nav-btn-txt {
+        background-color: #4f5f93;
+	}
+}
+
+@media only screen and (max-width: 991px) {
+	.nav-item {
+		border-bottom: 1px solid #171c2f;
+	}
+
+	.navbar-nav {
+		background-color: #323f6a;
+		border-bottom: 1px solid #212942;
+		border-left: 2px solid #212942;
+		border-top: 1px solid #212942;
+	}
+}
