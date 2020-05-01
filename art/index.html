@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <link rel="icon" href="/acnh/resources/logo.png">
+  <title>Art | NH:Notes</title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/acnh/resources/main.css">
+  <link id="dark-css" rel="stylesheet" href="">
+  <link id="animcss" rel="stylesheet" href="/acnh/resources/animate.css">
+  <link rel="stylesheet" href="/acnh/resources/animsition/dist/css/animsition.css">
+  <link href="/acnh/resources/icons/css/all.css" rel="stylesheet">
+
+  <!-- Jquery -->
+  <script src="https://code.jquery.com/jquery-latest.min.js"></script>
+
+  <!-- JavaScript -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+  <script src="/acnh/resources/animsition//dist/js/animsition.min.js"></script>
+  <script src="/acnh/resources/main.js"></script>
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Hammersmith+One&family=Kalam:wght@300&family=Nunito&family=Roboto+Condensed:wght@700&family=Sarala&display=swap" rel="stylesheet"> 
+</head>
+
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg navbar-light fixed-top">
+  <!-- Navbar Logo -->
+  <a class="navbar-brand" href="#">
+    <div class="navbar-brand-offset">
+      <img src="/acnh/resources/logo_white.png" width="33" height="33" class="d-inline-block align-top" alt="">
+      <span class="brand-txt">NH:</span>Notes
+    </div>
+  </a>
+
+  <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav ml-auto pr-lg-5">
+
+      <li class="nav-item">
+        <a class="nav-link animsition-link" href="/acnh">Overview</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link animsition-link" href="/acnh/fish">Fish</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link animsition-link" href="/acnh/bugs">Bugs</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link animsition-link" href="/acnh/fossils">Fossils</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link animsition-link nav-link-selected" href="/acnh/art">Art</a>
+      </li>
+      <li class="nav-item">
+        <div class="nav-link dm-nav-link" title="Dark/Light Mode"><i class="fas fa-moon"></i></div>
+      </li>
+
+    </ul>
+  </div>
+
+</nav>
+
+<body class="animsition" id="top">
+
+  <div class="preloader-container">
+    <div class="preloader"><img src="/acnh/resources/preloader.svg" alt="loading"></div>
+  </div>
+
+  <div class="body-container">
+  <div class="list-options-container my-0 my-lg-4">
+    <div class="row p-0 m-0">
+
+      <div class="list-options w-100">
+
+        <div class="options-container">
+          <div class="row p-0 m-0">
+
+
+            <!-- Filters -->
+            <div class="col-6 col-md-6 col-lg-4 p-0 m-0 " title="Filters">
+              <div class="option-dropdown dd-filter">
+                <button class="btn btn-option dropdown-toggle w-sm-98 w-100 w-lg-99" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  <div class="sm-only w-100"><i class="fas fa-filter ml-auto mr-auto"></i></div><div class="lg-only">Filters</div>
+                </button>
+                <div class="dropdown-menu p-0 filter-list" aria-labelledby="dropdownMenuButton">
+                  <div class="checkbox"><label><input type="checkbox" id="not-caught">Not Collected</label></div>
+                  <div class="checkbox"><label><input type="checkbox" id="caught">Collected</label></div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Sort Order -->
+            <div class="col-6 col-md-6 col-lg-4 p-0 m-0 pl-sm-1 text-right rr-lg-2" title="Sort Order">
+
+              <button class="btn btn-option dropdown-toggle dd-sort w-sm-98 w-100 w-lg-99" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <div class="sm-only w-100"><i class="fas fa-sort-alpha-up ml-auto mr-auto fs-21"></i></div><div id="sort-order-txt" class="lg-only">Sort By: A - Z</div>
+              </button>
+              <div class="dropdown-menu p-0 sort-order-list" aria-labelledby="dropdownMenuButton">
+                <button class="sort-by-btn">A - Z</button>
+                <button class="sort-by-btn">Z - A</button>
+              </div>
+              
+            </div>
+
+            <!-- Search -->
+            <div class="col-12 col-lg-4 px-0 pt-1 pt-lg-0 rl-lg-1">
+              <i class="fa fa-search search-icon lg-only"></i>
+              <input type="text" class="form-control search inline w-100" aria-describedby="Fossil Search" placeholder="Search">
+            </div>
+
+          </div>
+        </div>
+      </div>
+      <div class="list-progress-container row p-0 m-0">
+        <div class="col">
+          <div class="progress-bar-bg w-100">
+            <div class="progress-bar-fg"></div>
+          </div>
+        </div>
+        <div class="col-4 col-lg-2 text-center">
+          <div class="progress-count w-100">0 / 38</div>
+        </div>
+      </div>
+  </div>
+  </div>
+
+  <span style="display: none;">
+    <div id="art-template" class="col mb-4">
+      <div class="my-3 list-item-col" data-toggle="tooltip" title="">
+
+        <div class="list-item-container">
+          <div class="list-item-image list-item-image-hidden">
+            <div class="got caught-false"><div class="list-item-caught"><i class="fas fa-times"></i></div></div>
+            <div class="list-item-price list-item-price-art" title="Sell Price (Bells)" style="display: none;">Price</div>
+            <div class="list-item-id">ID</div>
+          </div>
+
+          <div class="list-item-content list-item-content-fossil">
+            <div class="list-item-name list-item-name-fossil py-2">Name</div>
+            <div class="list-item-info-container">
+              <div class="list-item-genuine">Content</div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+  </div>
+  </span>
+
+  <div class="list-container ml-auto mr-auto">
+    <div class="note-options"><div class="note-filter-text">Filter your -><br> search up here</div></div>
+    <div class="note-tick"><div class="note-tick-text">Click one to -> <br>tick it off</div></div>
+    <div class="filter-total lg-only"><span class="filter-count">0</span> <span class="filter-text">filters</span></div>
+    <div class="showing-total lg-only">Showing: <span class="showing-count">38</span> / 38</div>
+    <div id="art-list" class="row p-0 m-0">
+
+      <!-- Art List -->
+      <div class="col-12 p-3 search-error">Couldn't find any art here. Try changing your search term or filters.</div>
+
+      
+    </div>
+  </div>
+
+  <a href="#top" class="scroll-top-link" style="display: none;">
+    <div class="scroll-top-container">
+      <i class="fas fa-arrow-up"></i>
+    </div>
+  </a>
+  </div>
+</body>
