@@ -1134,6 +1134,7 @@ body {
 	left: 50%;
 	width: 0px;
 	height: 0px;
+	display: none !important;
 }
 
 .note-tick {
@@ -1146,12 +1147,14 @@ body {
 	width: 0px;
 	height: 0px;
 	top: 50px;
+	display: none !important;
 }
 
 .note-tick-text {
 	position: relative;
 	right: 765px;
 	width: 200px;
+	display: none !important;
 }
 
 .note-filter-text {
@@ -1159,6 +1162,7 @@ body {
 	right: 762px;
 	width: 200px;
 	bottom: 169px;
+	display: none !important;
 }
 
 .rot-m90 {
