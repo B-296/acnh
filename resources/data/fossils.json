@@ -1,0 +1,296 @@
+{
+
+    "Acanthostega":   [{
+        "id": "1",
+        "price": "2,000"
+    }],
+    "Amber":   [{
+        "id": "2",
+        "price": "1,200"
+    }],
+    "Ammonite":   [{
+        "id": "3",
+        "price": "1,100"
+    }],
+    "Ankylo Skull":   [{
+        "id": "4",
+        "price": "3,500"
+    }],
+    "Ankylo Tail":   [{
+        "id": "5",
+        "price": "2,500"
+    }],
+    "Ankylo Torso":   [{
+        "id": "6",
+        "price": "3,000"
+    }],
+    "Anomalocaris":   [{
+        "id": "7",
+        "price": "2,000"
+    }],
+    "Archaeopteryx":   [{
+        "id": "8",
+        "price": "1,300"
+    }],
+    "Archelon Skull":   [{
+        "id": "9",
+        "price": "4,000"
+    }],
+    "Archelon Tail":   [{
+        "id": "10",
+        "price": "3,500"
+    }],
+    "Australopith":   [{
+        "id": "11",
+        "price": "1,100"
+    }],
+    "Brachio Chest":   [{
+        "id": "12",
+        "price": "5,500"
+    }],
+    "Brachio Pelvis":   [{
+        "id": "13",
+        "price": "5,000"
+    }],
+    "Brachio Skull":   [{
+        "id": "14",
+        "price": "6,000"
+    }],
+    "Brachio Tail":   [{
+        "id": "15",
+        "price": "5,500"
+    }],
+    "Coprolite":   [{
+        "id": "16",
+        "price": "1,100"
+    }],
+    "Deinony Tail":   [{
+        "id": "17",
+        "price": "2,500"
+    }],
+    "Deinony Torso":   [{
+        "id": "18",
+        "price": "3,000"
+    }],
+    "Dimetrodon Skull":   [{
+        "id": "19",
+        "price": "5,500"
+    }],
+    "Dimetrodon Torso":   [{
+        "id": "20",
+        "price": "5,000"
+    }],
+    "Dinosaur Track":   [{
+        "id": "21",
+        "price": "1,000"
+    }],
+    "Diplo Chest":   [{
+        "id": "22",
+        "price": "4,000"
+    }],
+    "Diplo Neck":   [{
+        "id": "23",
+        "price": "4,500"
+    }],
+    "Diplo Pelvis":   [{
+        "id": "24",
+        "price": "4,000"
+    }],
+    "Diplo Skull":   [{
+        "id": "25",
+        "price": "5,000"
+    }],
+    "Diplo Tail":   [{
+        "id": "26",
+        "price": "4,500"
+    }],
+    "Diplo Tail Tip":   [{
+        "id": "27",
+        "price": "4,000"
+    }],
+    "Dunkleosteus":   [{
+        "id": "28",
+        "price": "3,500"
+    }],
+    "Eusthenopteron":   [{
+        "id": "29",
+        "price": "2,000"
+    }],
+    "Iguanodon Skull":   [{
+        "id": "30",
+        "price": "4,000"
+    }],
+    "Iguanodon Tail":   [{
+        "id": "31",
+        "price": "3,000"
+    }],
+    "Iguanodon Torso":   [{
+        "id": "32",
+        "price": "3,500"
+    }],
+    "Juramaia":   [{
+        "id": "33",
+        "price": "1,500"
+    }],
+    "Left Megalo Side":   [{
+        "id": "34",
+        "price": "4,000"
+    }],
+    "Left Ptera Wing":   [{
+        "id": "35",
+        "price": "4,500"
+    }],
+    "Left Quetzal Wing":   [{
+        "id": "36",
+        "price": "5,000"
+    }],
+    "Mammoth Skull":   [{
+        "id": "37",
+        "price": "3,000"
+    }],
+    "Mammoth Torso":   [{
+        "id": "38",
+        "price": "2,500"
+    }],
+    "Megacero Skull":   [{
+        "id": "39",
+        "price": "4,500"
+    }],
+    "Megacero Tail":   [{
+        "id": "40",
+        "price": "3,000"
+    }],
+    "Megacero Torso":   [{
+        "id": "41",
+        "price": "3,500"
+    }],
+    "Myllokunmingia":   [{
+        "id": "42",
+        "price": "1,500"
+    }],
+    "Ophthalmo Skull":   [{
+        "id": "43",
+        "price": "2,500"
+    }],
+    "Ophthalmo Torso":   [{
+        "id": "44",
+        "price": "2,000"
+    }],
+    "Pachy Skull":   [{
+        "id": "45",
+        "price": "4,000"
+    }],
+    "Pachy Tail":   [{
+        "id": "46",
+        "price": "3,000"
+    }],
+    "Parasaur Skull":   [{
+        "id": "47",
+        "price": "3,500"
+    }],
+    "Parasaur Tail":   [{
+        "id": "48",
+        "price": "2,500"
+    }],
+    "Parasaur Torso":   [{
+        "id": "49",
+        "price": "3,000"
+    }],
+    "Plesio Skull":   [{
+        "id": "50",
+        "price": "4,000"
+    }],
+    "Plesio Tail":   [{
+        "id": "51",
+        "price": "4,500"
+    }],
+    "Plesio Torso":   [{
+        "id": "52",
+        "price": "4,500"
+    }],
+    "Ptera Body":   [{
+        "id": "53",
+        "price": "4,000"
+    }],
+    "Quetzal Torso":   [{
+        "id": "54",
+        "price": "4,500"
+    }],
+    "Right Megalo Side":   [{
+        "id": "55",
+        "price": "5,500"
+    }],
+    "Right Ptera Wing":   [{
+        "id": "56",
+        "price": "4,500"
+    }],
+    "Right Quetzal Wing":   [{
+        "id": "57",
+        "price": "5,000"
+    }],
+    "Sabertooth Skull":   [{
+        "id": "58",
+        "price": "2,500"
+    }],
+    "Sabertooth Tail":   [{
+        "id": "59",
+        "price": "2,000"
+    }],
+    "Shark-Tooth Pattern":   [{
+        "id": "60",
+        "price": "1,000"
+    }],
+    "Spino Skull":   [{
+        "id": "61",
+        "price": "4,000"
+    }],
+    "Spino Tail":   [{
+        "id": "62",
+        "price": "2,500"
+    }],
+    "Spino Torso":   [{
+        "id": "63",
+        "price": "3,000"
+    }],
+    "Stego Skull":   [{
+        "id": "64",
+        "price": "5,000"
+    }],
+    "Stego Tail":   [{
+        "id": "65",
+        "price": "4,000"
+    }],
+    "Stego Torso":   [{
+        "id": "66",
+        "price": "4,500"
+    }],
+    "T.Rex Skull":   [{
+        "id": "67",
+        "price": "6,000"
+    }],
+    "T.Rex Tail":   [{
+        "id": "68",
+        "price": "5,000"
+    }],
+    "T.Rex Torso":   [{
+        "id": "69",
+        "price": "5,500"
+    }],
+    "Tricera Skull":   [{
+        "id": "70",
+        "price": "5,500"
+    }],
+    "Tricera Tail":   [{
+        "id": "71",
+        "price": "4,500"
+    }],
+    "Tricera Torso":   [{
+        "id": "72",
+        "price": "5,000"
+    }],
+    "Trilobite":   [{
+        "id": "73",
+        "price": "1,300"
+    }]
+
+}

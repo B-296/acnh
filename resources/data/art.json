@@ -1,0 +1,193 @@
+{
+
+    "Academic Painting":   [{
+        "id": "1",
+        "price": "-",
+        "info": "The fake has a coffee stain in the top right corner."
+    }],
+    "Amazing Painting":   [{
+        "id": "2",
+        "price": "-",
+        "info": "In the fake the man in black is not wearing a hat."
+    }],
+    "Ancient Statue":   [{
+        "id": "3",
+        "price": "-",
+        "info": "On the fake there are antennas on the ears."
+    }],
+    "Basic Painting":   [{
+        "id": "4",
+        "price": "-",
+        "info": "In the fake the mans hair is long and covers his forehead."
+    }],
+    "Beautiful Statue":   [{
+        "id": "5",
+        "price": "-",
+        "info": "The fake is wearing a necklace."
+    }],
+    "Calm Painting":   [{
+        "id": "6",
+        "price": "-",
+        "info": "Always genuine."
+    }],
+    "Common Painting":   [{
+        "id": "7",
+        "price": "-",
+        "info": "Always genuine."
+    }],
+    "Detailed Painting":   [{
+        "id": "8",
+        "price": "-",
+        "info": "In the fake the flowers are purple."
+    }],
+    "Dynamic Painting":   [{
+        "id": "9",
+        "price": "-",
+        "info": "Always genuine."
+    }],
+    "Famous Painting":   [{
+        "id": "10",
+        "price": "-",
+        "info": "In the fake the woman has very bold eyebrows."
+    }],
+    "Flowery Painting":   [{
+        "id": "11",
+        "price": "-",
+        "info": "Always genuine."
+    }],
+    "Glowing Painting":   [{
+        "id": "12",
+        "price": "-",
+        "info": "Always genuine."
+    }],
+    "Graceful Painting":   [{
+        "id": "13",
+        "price": "-",
+        "info": "In the fake the woman is the full height of the portrait."
+    }],
+    "Informative Statue":   [{
+        "id": "14",
+        "price": "-",
+        "info": "The fake is completely blue."
+    }],
+    "Jolly Painting":   [{
+        "id": "15",
+        "price": "-",
+        "info": "The fake is missing an artichoke in the bottom right."
+    }],
+    "Moody Painting":   [{
+        "id": "16",
+        "price": "-",
+        "info": "Always genuine."
+    }],
+    "Moving Painting":   [{
+        "id": "17",
+        "price": "-",
+        "info": "The fake has no trees on the right side of the painting."
+    }],
+    "Mysterious Painting":   [{
+        "id": "18",
+        "price": "-",
+        "info": "Always genuine."
+    }],
+    "Nice Painting":   [{
+        "id": "19",
+        "price": "-",
+        "info": "Always genuine."
+    }],
+    "Perfect Painting":   [{
+        "id": "20",
+        "price": "-",
+        "info": "Always genuine."
+    }],
+    "Proper Painting":   [{
+        "id": "21",
+        "price": "-",
+        "info": "Always genuine."
+    }],
+    "Quaint Painting":   [{
+        "id": "22",
+        "price": "-",
+        "info": "In the fake there is a large amount of milk being poured."
+    }],
+    "Robust Statue":   [{
+        "id": "23",
+        "price": "-",
+        "info": "The fake version has the man wearing a wrist-watch."
+    }],
+    "Rock-Head Statue":   [{
+        "id": "24",
+        "price": "-",
+        "info": "In the fake the head is smiling."
+    }],
+    "Scary Painting":   [{
+        "id": "25",
+        "price": "-",
+        "info": "In the fake the man looks scared with his eyebrows arched up."
+    }],
+    "Scenic Painting":   [{
+        "id": "26",
+        "price": "-",
+        "info": "The fake has only 1 hunter and 12 dogs."
+    }],
+    "Serene Painting":   [{
+        "id": "27",
+        "price": "-",
+        "info": "In the fake the ermine is grey."
+    }],
+    "Sinking Painting":   [{
+        "id": "28",
+        "price": "-",
+        "info": "Always genuine."
+    }],
+    "Solemn Painting":   [{
+        "id": "29",
+        "price": "-",
+        "info": "In the fake the man in the distant doorway has his hands up."
+    }],
+    "Tremendous Statue":   [{
+        "id": "30",
+        "price": "-",
+        "info": "The fake has a handle in the middle of the lid."
+    }],
+    "Twinkling Painting":   [{
+        "id": "31",
+        "price": "-",
+        "info": "Always genuine."
+    }],
+    "Valiant Statue":   [{
+        "id": "32",
+        "price": "-",
+        "info": "In the fake the clothes hang over its right shoulder."
+    }],
+    "Warm Painting":   [{
+        "id": "33",
+        "price": "-",
+        "info": "Always genuine."
+    }],
+    "Warrior Statue":   [{
+        "id": "34",
+        "price": "-",
+        "info": "The fake is resting its hands on a spade."
+    }],
+    "Wild Painting - Left":   [{
+        "id": "35",
+        "price": "-",
+        "info": "In the fake the god on the left side of the painting is green."
+    }],
+    "Wild Painting - Right":   [{
+        "id": "36",
+        "price": "-",
+        "info": "In the fake the god on the right side of the painting is white."
+    }],
+    "Wistful Painting":   [{
+        "id": "37",
+        "price": "-",
+        "info": "In the fake the earring is star-shaped."
+    }],
+    "Worthy Painting":   [{
+        "id": "38",
+        "price": "-",
+        "info": "Always genuine."
+    }]
+}
